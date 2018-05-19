@@ -9,5 +9,5 @@ function destructivelyRemoveLastDriver(name) {
   drivers.pop()
 }
 function destructivelyRemoveFirstDriver(name) {
-  drivers.slice[0]
+  drivers.slice[1]
 }
