@@ -1,4 +1,4 @@
 const drivers = ["Milo", "Otis", "Garfield"];
 destructivelyAppendDriver() {
-  destructivelyAppendDriver = drivers.push(name)
+  destructivelyAppendDriver(name) = drivers.push(name)
 }
